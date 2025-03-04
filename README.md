@@ -8,7 +8,7 @@ For the latest and most comprehensive set of policies, please visit:
 
 :small_blue_diamond: [Github repo](https://github.com/hashicorp/policy-library-CIS-Policy-Set-for-AWS-Terraform) for accessing the complete set of pre-written policies.
 
-Thank you for your understanding and support!****
+Thank you for your understanding and support!
 
 # (Beta) Pre-written Sentinel Policies for Center for Internet Security(CIS) AWS EC2 Foundations Benchmark
 
